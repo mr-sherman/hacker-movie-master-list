@@ -25,5 +25,6 @@ The master list of hacker movies - the cheesier, the better.  Realism not necess
  - [Oceans 11](https://www.imdb.com/title/tt0240772/?ref_=nv_sr_srsg_0)
 
 ### The 10s
+ - [Ex Machina](https://www.imdb.com/title/tt0470752/)
 
 ### The 20s
