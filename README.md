@@ -1,6 +1,9 @@
-# hacker-movie-master-list
-The master list of hacker movies - the cheesier, the better.  Realism not necessary.
+# Hacker Entertainment Master List
+The master list of hacker movies and tv shows - the cheesier, the better.  Realism not necessary.
+Any movie featuring people programming computers where hacking / phreaking / cracking is a key part of the plot.
+Any tv show in which a prominent character is a hacker / phreaker / or cracker to enhance the plot of the larger tv show, not just a single episode
 
+## Movies
 ### The 60s
 
 ### The 70s
@@ -10,6 +13,7 @@ The master list of hacker movies - the cheesier, the better.  Realism not necess
  - [Wargames](https://www.imdb.com/title/tt0086567/)
  - [Jumpin' Jack Flash](https://www.imdb.com/title/tt0091306/?ref_=nv_sr_srsg_0)
  - [Super-man III](https://www.imdb.com/title/tt0086393/)
+ - [Real Genius](https://www.imdb.com/title/tt0089886/)
 
 ### The 90s
  - [Sneakers](https://www.imdb.com/title/tt0105435/?ref_=nv_sr_srsg_0)
@@ -33,3 +37,22 @@ The master list of hacker movies - the cheesier, the better.  Realism not necess
  - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
  
 ### The 20s
+
+## TV Shows
+
+### The 80s
+
+### The 90s
+
+### The 00s
+ - [24](https://www.imdb.com/title/tt0285331/)
+ - [Code Monkeys](https://www.imdb.com/title/tt1068683/)
+ 
+### The 10s
+ - [Banshee](https://www.imdb.com/title/tt0285331/)
+ - [Silicon Valley](https://www.imdb.com/title/tt2575988/)
+ - [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)
+ - [Scorpion](https://www.imdb.com/title/tt3514324/)
+
+### The 20s
+ - [Devs](https://www.imdb.com/title/tt8134186/)
