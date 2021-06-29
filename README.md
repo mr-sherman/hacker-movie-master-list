@@ -17,6 +17,10 @@ The master list of hacker movies - the cheesier, the better.  Realism not necess
  - [Hackers](https://www.imdb.com/title/tt0113243/?ref_=nv_sr_srsg_0)
  - [Johnny Mnemonic](https://www.imdb.com/title/tt0113481/?ref_=nv_sr_srsg_0)
  - [Office Space](https://www.imdb.com/title/tt0151804/?ref_=fn_al_tt_1)
+ - [The Lawnmower Man](https://www.imdb.com/title/tt0104692/)
+ - [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/)
+ - [The Matrix](https://www.imdb.com/title/tt0133093/)
+ - [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122)
 
 ### The 00s
  - [Anti-Trust](https://www.imdb.com/title/tt0218817/?ref_=fn_al_tt_1)
@@ -26,5 +30,6 @@ The master list of hacker movies - the cheesier, the better.  Realism not necess
 
 ### The 10s
  - [Ex Machina](https://www.imdb.com/title/tt0470752/)
-
+ - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
+ 
 ### The 20s
