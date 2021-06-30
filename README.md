@@ -35,6 +35,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 ### The 10s
  - [Ex Machina](https://www.imdb.com/title/tt0470752/)
  - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
+ - [Blackhat](https://www.imdb.com/title/tt2717822/)
  
 ### The 20s
 
@@ -47,6 +48,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 ### The 00s
  - [24](https://www.imdb.com/title/tt0285331/)
  - [Code Monkeys](https://www.imdb.com/title/tt1068683/)
+ - [Veronica Mars](https://www.imdb.com/title/tt0412253/)
  
 ### The 10s
  - [Banshee](https://www.imdb.com/title/tt0285331/)
