@@ -25,6 +25,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/)
  - [The Matrix](https://www.imdb.com/title/tt0133093/)
  - [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122)
+ - [Ghost in the Shell](https://www.imdb.com/title/tt0113568)
 
 ### The 00s
  - [Anti-Trust](https://www.imdb.com/title/tt0218817/?ref_=fn_al_tt_1)
@@ -58,3 +59,5 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 
 ### The 20s
  - [Devs](https://www.imdb.com/title/tt8134186/)
+ - [Mr Robot](https://www.imdb.com/title/tt4158110/) available on Prime
+ - [LA's Finest](https://www.imdb.com/title/tt7555294/)
