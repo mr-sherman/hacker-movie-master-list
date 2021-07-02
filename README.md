@@ -60,3 +60,4 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 ### The 20s
  - [Devs](https://www.imdb.com/title/tt8134186/)
  - [Mr Robot](https://www.imdb.com/title/tt4158110/) available on Prime
+ - [LA's Finest](https://www.imdb.com/title/tt7555294/)
