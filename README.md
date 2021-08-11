@@ -56,9 +56,11 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [Silicon Valley](https://www.imdb.com/title/tt2575988/)
  - [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)
  - [Scorpion](https://www.imdb.com/title/tt3514324/)
-
+ - [Betas](https://www.imdb.com/title/tt3012184/)
+ 
 ### The 20s
  - [Devs](https://www.imdb.com/title/tt8134186/)
  - [Mr Robot](https://www.imdb.com/title/tt4158110/) available on Prime
  - [LA's Finest](https://www.imdb.com/title/tt7555294/)
  - [Mythic Quest](https://www.imdb.com/title/tt8879940/)
+ 
