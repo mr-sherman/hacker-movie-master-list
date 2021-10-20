@@ -26,6 +26,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [The Matrix](https://www.imdb.com/title/tt0133093/)
  - [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122)
  - [Ghost in the Shell](https://www.imdb.com/title/tt0113568)
+ - [Disclosure](https://www.imdb.com/title/tt0109635/)
 
 ### The 00s
  - [Anti-Trust](https://www.imdb.com/title/tt0218817/?ref_=fn_al_tt_1)
@@ -52,7 +53,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [24](https://www.imdb.com/title/tt0285331/)
  - [Code Monkeys](https://www.imdb.com/title/tt1068683/)
  - [Veronica Mars](https://www.imdb.com/title/tt0412253/)
- 
+ - [The IT Crowd](https://www.imdb.com/title/tt0487831/)
 ### The 10s
  - [Banshee](https://www.imdb.com/title/tt0285331/)
  - [Silicon Valley](https://www.imdb.com/title/tt2575988/)
@@ -62,7 +63,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  
 ### The 20s
  - [Devs](https://www.imdb.com/title/tt8134186/)
- - [Mr Robot](https://www.imdb.com/title/tt4158110/) available on Prime
+ - [Mr Robot](https://www.imdb.com/title/tt4158110/)
  - [LA's Finest](https://www.imdb.com/title/tt7555294/)
  - [Mythic Quest](https://www.imdb.com/title/tt8879940/)
  
