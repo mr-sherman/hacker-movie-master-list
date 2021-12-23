@@ -7,7 +7,8 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 ### The 60s
 
 ### The 70s
-
+ - [The Conversation](https://www.imdb.com/title/tt0071360/)
+ 
 ### The 80s
  - [Tron](https://www.imdb.com/title/tt0084827/?ref_=nv_sr_srsg_3)
  - [Wargames](https://www.imdb.com/title/tt0086567/)
@@ -35,7 +36,8 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [Oceans 11](https://www.imdb.com/title/tt0240772/?ref_=nv_sr_srsg_0)
  - [The Listening](https://www.imdb.com/title/tt0427461)
  - [Grandma's Boy](https://www.imdb.com/title/tt0456554/)
-
+ - [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)
+ 
 ### The 10s
  - [Ex Machina](https://www.imdb.com/title/tt0470752/)
  - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
