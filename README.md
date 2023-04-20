@@ -28,6 +28,8 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122)
  - [Ghost in the Shell](https://www.imdb.com/title/tt0113568)
  - [Disclosure](https://www.imdb.com/title/tt0109635/)
+ - [Pi](https://www.imdb.com/title/tt0138704/)
+ - [Enemy of the State](https://www.imdb.com/title/tt0120660/)
 
 ### The 00s
  - [Anti-Trust](https://www.imdb.com/title/tt0218817/?ref_=fn_al_tt_1)
@@ -37,13 +39,17 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [The Listening](https://www.imdb.com/title/tt0427461)
  - [Grandma's Boy](https://www.imdb.com/title/tt0456554/)
  - [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)
+ - [Hacking Democracy](https://www.imdb.com/title/tt0808532/)
  
 ### The 10s
  - [Ex Machina](https://www.imdb.com/title/tt0470752/)
  - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
  - [Blackhat](https://www.imdb.com/title/tt2717822/)
  - [Anon](https://www.imdb.com/title/tt5397194/reviews)
- 
+ - [Movie 43](https://www.imdb.com/title/tt1333125/)
+ - [Citizenfour](https://www.imdb.com/title/tt4044364/)
+ - [Skyfall](https://www.imdb.com/title/tt1074638/)
+
 ### The 20s
  - [Kimi](https://www.imdb.com/title/tt14128670/)
  - [The Takeover](https://www.imdb.com/title/tt18082758/)
