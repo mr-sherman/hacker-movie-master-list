@@ -39,15 +39,12 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [The Listening](https://www.imdb.com/title/tt0427461)
  - [Grandma's Boy](https://www.imdb.com/title/tt0456554/)
  - [Live Free or Die Hard](https://www.imdb.com/title/tt0337978/)
- - [Hacking Democracy](https://www.imdb.com/title/tt0808532/)
  
 ### The 10s
  - [Ex Machina](https://www.imdb.com/title/tt0470752/)
  - [TRON: Legacy](https://www.imdb.com/title/tt1104001/)
  - [Blackhat](https://www.imdb.com/title/tt2717822/)
  - [Anon](https://www.imdb.com/title/tt5397194/reviews)
- - [Movie 43](https://www.imdb.com/title/tt1333125/)
- - [Citizenfour](https://www.imdb.com/title/tt4044364/)
  - [Skyfall](https://www.imdb.com/title/tt1074638/)
 
 ### The 20s
