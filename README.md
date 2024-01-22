@@ -55,7 +55,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 ## TV Shows
 
 ### The 80s
-
+ - [Whiz Kids](https://www.imdb.com/title/tt0085110/)
 ### The 90s
 
 ### The 00s
