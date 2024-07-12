@@ -70,6 +70,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)
  - [Scorpion](https://www.imdb.com/title/tt3514324/)
  - [Betas](https://www.imdb.com/title/tt3012184/)
+ - [Startup](https://www.imdb.com/title/tt5028002/)
  
 ### The 20s
  - [Devs](https://www.imdb.com/title/tt8134186/)
