@@ -5,6 +5,7 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
 
 ## Movies
 ### The 60s
+ - [The Computer Wore Tennis Shoes](https://www.imdb.com/title/tt0065566/)
 
 ### The 70s
  - [The Conversation](https://www.imdb.com/title/tt0071360/)
