@@ -79,4 +79,4 @@ Any tv show in which a prominent character is a hacker / phreaker / or cracker t
  - [LA's Finest](https://www.imdb.com/title/tt7555294/)
  - [Mythic Quest](https://www.imdb.com/title/tt8879940/)
  - [Made for Love](https://www.imdb.com/title/tt7808566/)
- 
+ - [The Audacity](https://www.imdb.com/title/tt30923123/)
